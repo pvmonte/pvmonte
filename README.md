@@ -1,7 +1,6 @@
 I'm Paulo Monte, from Ceará - Brazil.
 
-My main field of studies and work is Unity. I work with Unity since 2018 in AR/VR profissionally and games as hobbist.
-Currently learning SOLID Principles, Clean Code and Design Patterns.
+My main field of studies and work is Unity. I work with Unity since 2018 and I'm experienced in AR/VR and games.
 
 You can find me at my LinkedIn Profile https://www.linkedin.com/in/paulo-monte-b345a9b7/
 
